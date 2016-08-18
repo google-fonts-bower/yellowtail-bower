@@ -1,0 +1,17 @@
+{
+    "name": "yellowtail-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/yellowtail-bower.git"
+    },
+    "description": "Yellowtail font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
